@@ -1,0 +1,19 @@
+orange-->Xpath
+Username://*[@id="txtUsername"]
+password://*[@id="txtPassword"]
+login://*[@id="btnLogin"]
+-->CSS Selectors
+#txtUsername
+#txtPassword
+#btnLogin
+
+wordpress-->XPath
+Username://*[@id="user_login"]
+password://*[@id="user_pass"]
+login://*[@id="wp-submit"]
+Remember Me://*[@id="rememberme"]
+-->CSS Selectors
+#user_login
+#user_pass
+#wp-submit
+#rememberme
